@@ -1,2 +1,4 @@
 This is the new test document.
 Adding a new line for testing
+Adding the next line for testing
+Adding the fourth line for testing
